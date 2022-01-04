@@ -1,0 +1,16 @@
+{
+  "name": "com.chonz.psd2unityimporter",
+  "version": "1.0.0",
+  "displayName": "Psd2UnityImporter",
+  "description": "This package helps psd to import.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+ },
+  "author": {
+    "name": "chonz",
+  }
+}
